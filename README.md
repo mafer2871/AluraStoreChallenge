@@ -33,7 +33,7 @@ El análisis se llevó a cabo siguiendo los siguientes pasos:
 2.  **Cargar los Datos:** Asegúrate de que los archivos de datos CSV estén accesibles para el notebook (ya sea cargándolos directamente en Colab o accediendo a ellos desde Google Drive). **Modifica la sección de carga de datos en el notebook para que coincida con la ubicación de tus archivos.**
 3.  **Ejecutar las Celdas:** Ejecuta las celdas de código secuencialmente en el notebook. Los resultados del análisis y las visualizaciones se mostrarán directamente en el notebook.
 
-## Hallazgos Clave (Resumen):mag:
+## Hallazgos Clave :mag:
 
 Basado en el análisis realizado:
 
