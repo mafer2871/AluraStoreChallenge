@@ -24,7 +24,7 @@ El análisis se llevó a cabo siguiendo los siguientes pasos:
 
 * **`challenge1_DA1.ipynb`:** El archivo de Google Colab que contiene el código Python completo para realizar el análisis. 
 * **`README.md`:** Este archivo, que proporciona una descripción general del proyecto.
-* **`análisis.docx` Documentos que presenta los resultados y las conclusiones del análisis.
+* **`InformeAluraStore.pdf` Documentos que presenta los resultados y las conclusiones del análisis.
 * **`[Posibles archivos de datos CSV]`:** Si los archivos de datos.
 
 ## Cómo Ejecutar el Código
