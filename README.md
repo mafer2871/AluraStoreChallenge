@@ -2,11 +2,11 @@
 
 Este repositorio contiene un análisis de datos de ventas de cuatro tiendas, realizado utilizando Python y las bibliotecas Pandas y Matplotlib en Google Colab.
 
-## Objetivo
+## Objetivo :dart:
 
 El objetivo principal de este ejercicio es aplicar técnicaas de análisis de datos sobre las ventas de las 4 tiendas de Alura Store, para ayudar al Señor Juan, propietario de las mismas, a decidir cuál de ellas podría ser susceptible de venta de acuerdo a diversos aspectos como el rendimiento de cada tienda, incluyendo ventas, calificaciones de clientes y costos de envío. El análisis termina con la identificación de una tienda que podría ser candidata para la venta.
 
-## Metodología
+## Metodología :bookmark_tabs:
 
 El análisis se llevó a cabo siguiendo los siguientes pasos:
 
@@ -33,7 +33,7 @@ El análisis se llevó a cabo siguiendo los siguientes pasos:
 2.  **Cargar los Datos:** Asegúrate de que los archivos de datos CSV estén accesibles para el notebook (ya sea cargándolos directamente en Colab o accediendo a ellos desde Google Drive). **Modifica la sección de carga de datos en el notebook para que coincida con la ubicación de tus archivos.**
 3.  **Ejecutar las Celdas:** Ejecuta las celdas de código secuencialmente en el notebook. Los resultados del análisis y las visualizaciones se mostrarán directamente en el notebook.
 
-:mag_right:## Hallazgos Clave (Resumen):mag:
+## Hallazgos Clave (Resumen):mag:
 
 Basado en el análisis realizado:
 
@@ -45,6 +45,6 @@ Basado en el análisis realizado:
 
 **Nota:** Este es un resumen de los hallazgos. El informe completo en el archivo adjunto proporciona un análisis más detallado.
 
-## Autor
+## Autor :scroll::pencil2:
 
 - [Mafer2871.](https://github.com/mafer2871)
