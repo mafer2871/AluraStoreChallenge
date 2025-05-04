@@ -20,20 +20,20 @@ El análisis se llevó a cabo siguiendo los siguientes pasos:
 9.  **Visualización de Datos:** Se utilizaron gráficos de barras (horizontales y verticales) de Matplotlib para visualizar las comparativas entre tiendas en términos de ventas, calificaciones y costos de envío. También se generaron gráficos para el volumen de ventas por producto y categoría y ventas por ciudad.
 10.  **Informe de Conclusiones:** Se elaboró un informe basado en los resultados del análisis para identificar tendencias y proporcionar recomendaciones, incluyendo la posible identificación de una tienda para la venta.
 
-## Contenido del Repositorio
+## Contenido del Repositorio :file_folder:
 
 * **`challenge1_DA1.ipynb`:** El archivo de Google Colab que contiene el código Python completo para realizar el análisis. 
 * **`README.md`:** Este archivo, que proporciona una descripción general del proyecto.
 * **`InformeAluraStore.pdf` Documentos que presenta los resultados y las conclusiones del análisis.
 * **`Base de datos`:** Carpta con los archivos de datos de las ventas de las 4 tiendas.
 
-## Cómo Ejecutar el Código
+## Cómo Ejecutar el Código :zap:
 
 1.  **Acceder al Notebook de Google Colab:** Abre el archivo `challenge1_DA1.ipynb` en Google Colab.
 2.  **Cargar los Datos:** Asegúrate de que los archivos de datos CSV estén accesibles para el notebook (ya sea cargándolos directamente en Colab o accediendo a ellos desde Google Drive). **Modifica la sección de carga de datos en el notebook para que coincida con la ubicación de tus archivos.**
 3.  **Ejecutar las Celdas:** Ejecuta las celdas de código secuencialmente en el notebook. Los resultados del análisis y las visualizaciones se mostrarán directamente en el notebook.
 
-## Hallazgos Clave (Resumen)
+:mag_right:## Hallazgos Clave (Resumen):mag:
 
 Basado en el análisis realizado:
 
@@ -47,4 +47,4 @@ Basado en el análisis realizado:
 
 ## Autor
 
-Análisis realizado por Maria Fernanda Rodríguez.
+- [Mafer2871.](https://github.com/mafer2871)
